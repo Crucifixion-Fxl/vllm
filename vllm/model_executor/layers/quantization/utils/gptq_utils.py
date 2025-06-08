@@ -1,4 +1,8 @@
 # SPDX-License-Identifier: Apache-2.0
+<<<<<<< HEAD
+=======
+# SPDX-FileCopyrightText: Copyright contributors to the vLLM project
+>>>>>>> upstream/main
 from copy import deepcopy
 from typing import Optional, Union
 
